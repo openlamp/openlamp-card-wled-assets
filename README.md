@@ -55,7 +55,7 @@ config/www/wled-assets/          →  served at  /local/wled-assets/
 
 **HACS** (custom repository)
 
-HACS → ⋮ → Custom repositories → add `https://github.com/openlamp/wled-assets-card`,
+HACS → ⋮ → Custom repositories → add `https://github.com/openlamp/openlamp-card-wled-assets`,
 category **Dashboard** → install. HACS registers the resource for you.
 
 ## Configuration
