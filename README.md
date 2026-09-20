@@ -1,4 +1,6 @@
-# wled-assets-card
+<p align="center"><img src="assets/banner.svg" alt="WLED Assets Card" width="100%"></p>
+
+# WLED Assets Card
 
 **A custom [Home Assistant](https://www.home-assistant.io) Lovelace card that decorates
 a WLED light with the localized names and illustrations from
