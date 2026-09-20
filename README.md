@@ -145,3 +145,13 @@ describe that compatibility.
 **[MIT](LICENSE)** — permissive, so anyone can adopt or fork it freely. WLED itself is
 EUPL-1.2; this card only interoperates with it over the public interface (no code is
 derived from WLED), so it carries no copyleft obligation.
+
+## Les illustrations
+
+Cette carte affiche les noms localisés et les illustrations de
+[wled-assets](https://github.com/openlamp/wled-assets), qu'elle ne redistribue pas :
+elle les joint par leur clé stable (voir `SCHEMA.md` de ce dépôt-là).
+
+Jusqu'au 2026-09-20 un lien symbolique `assets/` pointait vers un chemin absolu sur la
+machine de l'auteur. Il était sans effet — rien dans le code ne le lisait — mais il
+publiait ce chemin et faisait un lien mort dans tout clone. Retiré.
